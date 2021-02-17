@@ -1,0 +1,48 @@
+
+
+.leader-button {
+    display: inline-block;
+    width: 320px;
+    height: 320px;
+    padding: 10px;
+    border: 1px solid gray;
+    background-color: #78df8e;
+    margin: 100px 100px;
+    border-radius: 20%;
+    box-shadow: 0 50px 100px -20px rgba(50, 50, 93, 0.25),
+      0 30px 60px -30px rgba(0, 0, 0, 0.3),
+      inset 0 -2px 6px 0 rgba(10, 37, 64, 0.35);
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+
+  }
+  .participant-button {
+    display: inline-block;
+    width: 320px;
+    height: 320px;
+    padding: 10px;
+    border: 1px solid gray;
+    background-color: #a3cb38;
+    margin: 100px 100px;
+    border-radius: 20%;
+    box-shadow: 0 50px 100px -20px rgba(50, 50, 93, 0.25),
+      0 30px 60px -30px rgba(0, 0, 0, 0.3),
+      inset 0 -2px 6px 0 rgba(10, 37, 64, 0.35);
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+
+  }
+  .home-select {
+    display: inline-block;
+    font-family: "Do Hyeon", sans-serif;
+}
